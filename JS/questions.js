@@ -14,7 +14,7 @@ const quesAndAns=[
      },
      {    
          numb:2,
-         question:"Nigeria would have been a total hell if not for",
+         question:"Nigeria would have been a total hell if not for _____",
          answer:"Cruise",
          option:[
              "Cruise",
@@ -164,7 +164,7 @@ const quesAndAns=[
     },
     {    
         numb:6,
-        question:"Nigeria would have been a total hell if not for",
+        question:"Nigeria would have been a total hell if not for ______",
         answer:"Cruise",
         option:[
             "Cruise",
@@ -268,7 +268,7 @@ const quesAndAns=[
 },
 {    
     numb:6,
-    question:"Nigeria would have been a total hell if not for",
+    question:"Nigeria would have been a total hell if not for _____",
     answer:"Cruise",
     option:[
         "Cruise",
@@ -309,13 +309,13 @@ const quesAndAns=[
 [
 {    
     numb:1,
-    question:"One is odd",
-    answer:"Xender",
+    question:"If B.A.T should become president, _____",
+    answer:"he will surely amaize us",
     option:[
-        "Twitter",
-        "Facebook",
-        "Instagram",
-        "Xender"
+        "Nigeria will change for good",
+        "he will surely amaize us",
+        "okay ooo",
+        "we will be very sorry"
 
     ]
 },
